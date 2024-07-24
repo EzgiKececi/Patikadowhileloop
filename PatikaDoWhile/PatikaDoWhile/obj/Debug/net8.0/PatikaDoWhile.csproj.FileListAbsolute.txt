@@ -1,0 +1,14 @@
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\bin\Debug\net8.0\PatikaDoWhile.exe
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\bin\Debug\net8.0\PatikaDoWhile.deps.json
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\bin\Debug\net8.0\PatikaDoWhile.runtimeconfig.json
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\bin\Debug\net8.0\PatikaDoWhile.dll
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\bin\Debug\net8.0\PatikaDoWhile.pdb
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\obj\Debug\net8.0\PatikaDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\obj\Debug\net8.0\PatikaDoWhile.AssemblyInfoInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\obj\Debug\net8.0\PatikaDoWhile.AssemblyInfo.cs
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\obj\Debug\net8.0\PatikaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\obj\Debug\net8.0\PatikaDoWhile.dll
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\obj\Debug\net8.0\refint\PatikaDoWhile.dll
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\obj\Debug\net8.0\PatikaDoWhile.pdb
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\obj\Debug\net8.0\PatikaDoWhile.genruntimeconfig.cache
+C:\Users\EZGİ\Source\Repos\PatikaDoWhile\PatikaDoWhile\obj\Debug\net8.0\ref\PatikaDoWhile.dll
